@@ -1,3 +1,1 @@
 # Cool.js
-
-Hello
